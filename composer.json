@@ -1,0 +1,15 @@
+{
+    "name": "fangwei/test_pub",
+    "autoload": {
+        "psr-4": {
+            "Fangwei\\TestPub\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zane",
+            "email": "873934580@qq.com"
+        }
+    ],
+    "require": {}
+}
