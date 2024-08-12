@@ -1,6 +1,6 @@
 {
     "name": "fangwei/test_pub",
-    "version": "版本信息无效",
+    "version": "v0.0.1",
     "autoload": {
         "psr-4": {
             "Fangwei\\TestPub\\": "src/"
