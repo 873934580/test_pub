@@ -12,5 +12,19 @@
             "email": "873934580@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ptadmin/html": "^1.0",
+        "ptadmin/addon": "^0.0.1",
+        "ptadmin/install": "^0.0.1",
+        "ptadmin/build": "^0.0.1",
+        "ptadmin/easy": "^0.0.2"
+    },
+    "require-dev": {
+        "pestphp/pest": "^1.23"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
 }
